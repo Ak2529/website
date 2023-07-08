@@ -1,4 +1,3 @@
-#!/bin/bash
 PACKAGE="httpd wget unzip"
 URL="https://www.free-css.com/assets/files/free-css-templates/download/page292/simply-amazed.zip"
 
